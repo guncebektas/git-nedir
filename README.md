@@ -1,5 +1,7 @@
 # Git ve GitHub nedir? 
 
+![git-nedir.png](git-nedir.png)
+
 ## Git nedir ve neden kullanılır?
   
 Git, bir sürüm kontrol sistemi (Version Control System - VCS) olarak bilinen ve yazılım geliştirme süreçlerinde dosya değişikliklerini izlemek, yönetmek ve işbirliği yapmak için kullanılan bir yazılımdır. Git, yazılım geliştirme süreçlerini daha organize, güvenilir ve etkili bir hale getirmek için kullanılır. İşte Git'in ne olduğu ve neden kullanıldığına dair bazı önemli noktalar:
